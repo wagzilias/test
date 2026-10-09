@@ -1,0 +1,2 @@
+{ "name": "LabMate", "short_name": "LabMate", "description": "Planning de manips, plaques, protocoles et données de labo", "start_url": "./", "scope": "./", "display": "standalone", "orientation": "any", "background_color": "#22243b", "theme_color": "#22243b", "lang": "fr",
+  "icons": [ { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" }, { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }, { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" } ] }
